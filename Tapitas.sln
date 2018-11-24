@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapitas", "Assembly-CSharp.csproj", "{B9972B58-5541-F783-0C98-F9310A84E1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapitas", "Assembly-CSharp-firstpass.csproj", "{9B0845E0-DB56-9FE8-CD30-79179E658B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapitas", "Assembly-CSharp-Editor-firstpass.csproj", "{A64ABB08-1664-221A-2CFC-64D5482D7B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9972B58-5541-F783-0C98-F9310A84E1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9972B58-5541-F783-0C98-F9310A84E1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9972B58-5541-F783-0C98-F9310A84E1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9972B58-5541-F783-0C98-F9310A84E1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0845E0-DB56-9FE8-CD30-79179E658B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0845E0-DB56-9FE8-CD30-79179E658B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0845E0-DB56-9FE8-CD30-79179E658B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0845E0-DB56-9FE8-CD30-79179E658B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64ABB08-1664-221A-2CFC-64D5482D7B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64ABB08-1664-221A-2CFC-64D5482D7B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64ABB08-1664-221A-2CFC-64D5482D7B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64ABB08-1664-221A-2CFC-64D5482D7B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
