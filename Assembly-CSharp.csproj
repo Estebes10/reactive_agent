@@ -61,18 +61,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Camina.cs" />
-    <Compile Include="Assets\CollectBlueBottleCaps.cs" />
-    <Compile Include="Assets\CollectGreenBottleCaps.cs" />
-    <Compile Include="Assets\FollowPlayer.cs" />
-    <Compile Include="Assets\FollowPlayerCam.cs" />
-    <Compile Include="Assets\GenerateTapitas.cs" />
-    <Compile Include="Assets\Marcos Schultz\MSAdvancedCameraController\Scripts\MSCameraController.cs" />
-    <Compile Include="Assets\Minimap.cs" />
-    <Compile Include="Assets\MoveRandomly.cs" />
-    <Compile Include="Assets\PlayerScript.cs" />
-    <Compile Include="Assets\ResetGame.cs" />
     <Compile Include="Assets\Resources\CollectRedBottleCaps.cs" />
+    <Compile Include="Assets\Scripts\Camina.cs" />
+    <Compile Include="Assets\Scripts\CollectBlueBottleCaps.cs" />
+    <Compile Include="Assets\Scripts\CollectGreenBottleCaps.cs" />
+    <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\FollowPlayerCam.cs" />
+    <Compile Include="Assets\Scripts\GenerateTapitas.cs" />
+    <Compile Include="Assets\Scripts\Minimap.cs" />
+    <Compile Include="Assets\Scripts\MoveRandomly.cs" />
+    <Compile Include="Assets\Scripts\PlayerScript.cs" />
+    <Compile Include="Assets\Scripts\ResetGame.cs" />
     <None Include="Assets\PBR Materials Lite\Info.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/estebes10/UnityProjects/Tapitas/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
